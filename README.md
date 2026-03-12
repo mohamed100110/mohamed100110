@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github" />
   </a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm **Mohamed Ahmed**, a Computer Science student.
-- 💻 I enjoy **programming with C++** and solving problems.
-- 🧠 Interested in **algorithms and data structures**.
-- 🚀 My goal is to become a **professional software engineer**.
-- 📚 Currently improving my **problem solving skills**.
+* 🎓 I'm **Mohamed Ahmed**, a Computer Science student.
+* 💻 I enjoy **programming with C++** and solving problems.
+* 🧠 Interested in **algorithms and data structures**.
+* 🚀 My goal is to become a **professional software engineer**.
+* 📚 Currently improving my **problem solving skills**.
 
 ---
 
@@ -22,33 +22,27 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,visualstudio,github" />
 </a>
 </p>
 
-- **Language:** C++
-- **Tools:** Git, GitHub, VS Code
+* **Language:** C++
+* **IDE:** Visual Studio
+* **Platform:** GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
 
 ---
 
 ## 📌 Goals for 2026
 
-- 📚 Master **C++**
-- 🧩 Solve many **problem solving challenges**
-- 🏗 Build real **C++ projects**
-- 🌍 Start contributing to **open source**
+* 📚 Master **C++**
+* 🧩 Solve many **problem solving challenges**
+* 🏗 Build real **C++ projects**
 
 ---
 
