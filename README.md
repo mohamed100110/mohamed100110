@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
   </a>
 </p>
 
@@ -11,10 +11,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm **Mohamed Ahmed**, a Computer Science student.
-- 💻 I love **programming and problem solving**.
-- 🌱 Currently learning **C++ and Data Structures**.
+- 💻 I enjoy **programming with C++** and solving problems.
+- 🧠 Interested in **algorithms and data structures**.
 - 🚀 My goal is to become a **professional software engineer**.
-- 🧠 I enjoy learning new technologies and building projects.
+- 📚 Currently improving my **problem solving skills**.
 
 ---
 
@@ -22,9 +22,12 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </a>
 </p>
+
+- **Language:** C++
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -44,11 +47,11 @@
 
 - 📚 Master **C++**
 - 🧩 Solve many **problem solving challenges**
-- 🏗 Build real **programming projects**
-- 🌍 Contribute to **open source**
+- 🏗 Build real **C++ projects**
+- 🌍 Start contributing to **open source**
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy coding late at night 🌙 and solving programming problems.
+I enjoy coding late at night 🌙 and improving my programming skills.
