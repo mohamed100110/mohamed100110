@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Mohamed Ahmed
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github" />
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-0b896b38b/">
+    <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github,linkedin" />
   </a>
 </p>
 
@@ -21,20 +21,20 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,visualstudio,github" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github,linkedin" />
+  </a>
 </p>
 
 * **Language:** C++
 * **IDE:** Visual Studio
-* **Platform:** GitHub
+* **Platform:** GitHub / LinkedIn
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed100110&show_icons=true&theme=dark)
 
 ---
 
