@@ -54,6 +54,10 @@
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed100110&show_icons=true&theme=dark)
 
+### 🖥️ Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed100110&layout=compact&theme=dark)
+
 ---
 
 ## 📌 Goals for 2026
