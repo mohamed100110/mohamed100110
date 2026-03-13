@@ -1,8 +1,17 @@
 # Hi there! 👋 I'm Mohamed Ahmed
 
 <p align="center">
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="50" />
+  </a>
+  <a href="https://github.com/mohamed100110">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
   <a href="https://www.linkedin.com/in/mohamed-ahmed-0b896b38b/">
-    <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github,linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
 </p>
 
@@ -21,8 +30,17 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github,linkedin" />
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="50" />
+  </a>
+  <a href="https://github.com/mohamed100110">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-0b896b38b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
 </p>
 
